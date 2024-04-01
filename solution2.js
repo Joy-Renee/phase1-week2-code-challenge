@@ -10,4 +10,4 @@ function arrayS(start, end){
 }
 
 arrayS(201, 211) // This is where you input the number that will start and the one that will end respectively. Then it will output the array.
-console.log(arrayS(200, 211))
+console.log(arrayS(201, 211))

@@ -5,9 +5,11 @@
 #### By *Joy Renee Wangerwe Mugo*
 
 ## Description
-This folder contains three project files which include: Student Grade Generator - In this first solution file is where you input student marks and in return get the grade. 
-In the second solution file, The Speed Detector, this is where you input the speed and it will return demerit points and a warning if they are past the speed limit.
-In the third solution file, The Net Salary Calculator, it calculates the payee and NHIFDeductions. It will return your net salary.
+This folder contains three project files: In the first solution file is about, a function that is used to input a string as input and swaps the case of each character from lowercase to uppercase and vice versa.
+
+In the second solution file, a function that accepts an input of two numbers to generate an array between them.
+
+In the third solution file, a function that takes an array of numbers as input and returns a new array containing only the prime numbers from the original array.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
