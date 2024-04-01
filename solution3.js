@@ -6,7 +6,7 @@ function arrayNumbers([number]){
         return ''
     } 
     else{
-        return primeNumber.push(number)
+        return primeNumber.push([number])
     }
 
 }

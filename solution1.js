@@ -11,8 +11,8 @@ function sentence(str){                               // Create a function.
     }
     return newString                                  // We use it at the end of the funtion (This is to ensure the loop is completed first) and not inside the loop to ensure that it does not return an incomplete string (it will prematurely exit the loop)
 }
-let str = 'The Quick Brown Fox' // Here is where you input your string.
-console.log(sentence(str))      // Call out the function.
+let str = 'The Quick Brown Fox'                       // Here is where you input your string.
+console.log(sentence(str))                            // Call out the function.
 
 
 
